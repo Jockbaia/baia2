@@ -1,0 +1,12 @@
+.key {
+    width: 250px;
+    height: 25px;
+    border: 2px solid;
+    margin-bottom: 5px;
+    border-radius: 10px 30px 30px 10px;
+    transition: all 0.5s ease-out;
+}
+
+.key:hover {
+    width: 300px;
+}
